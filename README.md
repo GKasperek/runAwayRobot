@@ -8,7 +8,7 @@ This is personnal project on unity. Some basics functions are implemented to bui
 
 I have done all the sprites *except the background* please don't take care of the poor level of design. If I continue it, it's very possible that it is not final. (I need tablet drawing with a mouse is difficult even in pixel art)
 
-![Capture](https://github.com/GKasperek/runAwayRobot/tree/main/runAwayRobot/Captures/capture2.JPG)
+![Capture](https://github.com/GKasperek/runAwayRobot/blob/main/runAwayRobot/Captures/capture2.JPG)
 
 ```
 Powered by Unity and develop in C#
